@@ -1,2 +1,2 @@
 # helloworld
-A mixture of all kinds of hello_world.
+A collection of all kinds of hello world.
